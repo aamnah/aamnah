@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+# whoami
+
+Hi there 👋 
+
+I'm Aamnah. I code and design websites and apps.
 
 <!--
 **aamnah/aamnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
