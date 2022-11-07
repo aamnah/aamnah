@@ -1,6 +1,6 @@
 
 
-# whoami
+# $ whoami
 
 Hi there 👋 
 
