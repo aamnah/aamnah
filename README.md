@@ -4,7 +4,7 @@
 
 Hi there 👋 
 
-I'm Aamnah. I code and I design. Web development and UI mostly. I like learning things and acquiring skills. 
+I'm Aamnah. I code and I design. Web development and UI mostly. I like learning and acquiring skills. 
 
 <!--
 **aamnah/aamnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
