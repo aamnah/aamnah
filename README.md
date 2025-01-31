@@ -10,7 +10,6 @@ I'm an amazing generalist because of my curiosity. I have hands-on experience wi
 - 🔭 I’m currently working on finishing my ICT degree at JAMK
 - 👯 I’m looking to join on a development team that works on projects that create an impact
 - 🌱 I’m currently learning C++ and low level programming
-- 📫 How to reach me: LinkedIn is the best
 
 <a href="https://www.linkedin.com/in/aamnah/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/de9490f80383d047ed7ca4c296b01a7ae1327238fd075ffafc6c06a84154b31c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e"
