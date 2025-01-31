@@ -2,7 +2,7 @@
 
 # $ whoami
 
-### Hi 👋 I'm Aamnah. 
+### Hi 👋 I'm Amna. 
 
 I'm an amazing generalist because of my curiosity. I have hands-on experience with frontend development and have built apps with React. Plus i'm taking courses for ethical hacking, cyber defence, advanced programming and cloud operations. Being a student allows me to explore new roles before deciding on a specialization. Open to networking and opportunities. Let's connect!
 
